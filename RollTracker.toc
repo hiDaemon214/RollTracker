@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: Roll点跟踪器
+## Notes: 一个简单的roll点跟踪器
+## Author: 铁血2-乘风破浪的姐姐们-达蒙
+## Version: 1.1
+
+RollTracker.lua
